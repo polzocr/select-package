@@ -1,0 +1,14 @@
+{
+  "name": "@polzocr/select-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "@polzocr:registry": "https://npm.pkg.github.com"
+  }
+}
